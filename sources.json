@@ -1,66 +1,13 @@
 {
-	"about":"Soy Tertulio Perez y desarrollo videojuegos. Esta es información sobre mi.",
-	"aboutimg": "http://www.spa-puntacana.com/wp-content/uploads/2016/03/news_photo_04.jpg",
+	"about":"I'm a Mexican artist,  with great passion for art. Previously studied Game Design at SAE Institute, which opened the doors to many skills and knowledge, so I decided to specialize and take a master's degree in Fine Arts at Academy of Arts University in Visual Development at San Fransisco CA.",
+	"aboutimg": "https://img1.wsimg.com/isteam/ip/b7bae8da-6fc7-47c6-af55-4fb2cbff2421/83751846_2907578092610632_5286439871848644608_.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280,h:1310",
 	"portfolio": [
 		{
-			"name": "Juego Poderoso",
-			"desc": "Es un juego y es una piola",
-			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Stray_calico_cat_near_Sagami_River-01.jpg/640px-Stray_calico_cat_near_Sagami_River-01.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
+			"name": "Algo tonto",
+			"desc": "Me la pelas Alipendejo",
+			"img": "https://www.latercera.com/resizer/l9_Nn7P2Xs45pfGrKTeHFhhOX4c=/800x0/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/YPG2SOLGAJBDBHO5PRJA75IEGI.jpg",
+			"src": "https://xallylucio.com/portfolio"
 		}
+		
 	]
 }
